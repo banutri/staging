@@ -10,10 +10,9 @@
     <?php
         for($i=0; $i<101;)
         {
-            echo '<p>Heleh kenthel</p>';
+            echo '<p>1Heleh kenthel</p>';
             $i++;
         }
-    
     ?>
 </body>
 </html>
