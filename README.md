@@ -1,3 +1,3 @@
 ###########
-coba ajaaa heleh kenthel
+coba ajaaa
 ##########
